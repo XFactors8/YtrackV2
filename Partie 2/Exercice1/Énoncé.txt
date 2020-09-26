@@ -1,0 +1,13 @@
+Écrire une fonction qui renvoies true si le premier nombre passé en paramètre est plus grand que le second, sinon false.
+
+Cette fonction se trouvera en dessous du main et s'appellera: "IsHigher"
+Vous l'appellerez ensuite deux fois dans la fonction main puis utiliserez "println" pour afficher le résultat
+en indiquant les valeurs
+
+Notes:
+    -Vôtre code se trouvera dans un fichier au nom de: "main.go" dans le même dossier que l'énoncé
+    -Aucune valeur en "brut" n'est autorisé (pas de nombres hors de variables)
+    -Aucun import n'est autorisé
+
+Cours:
+    -https://tour.golang.org/flowcontrol/5

@@ -1,0 +1,31 @@
+Écrire une fonction qui retourne la saison en fonction du mois (au format string)
+
+    Saison Hiver:
+        -Décembre
+        -Janvier
+        -Février
+    Saison Printemps:
+        -Mars
+        -Avril
+        -Mai
+    Saison Été:
+        -Juin
+        -Juillet
+        -Août
+    Saison Automne:
+        -Septembre
+        -Octobre
+        -Novembre
+
+Vôtre code se trouvera dans la fonction "WhatSeason" en dessous du main
+Vous utiliserez "println" pour afficher le résultat ainsi que le mois testé.
+
+
+Notes:
+    -Vôtre code se trouvera dans un fichier au nom de: "main.go" dans le même dossier que l'énoncé
+    -Aucun nombre en "brut" n'est autorisé (pas de nombres hors de variables)
+    -"if" n'est pas autorisé
+    -Aucun import n'est autorisé
+
+Cours:
+    -https://tour.golang.org/flowcontrol/9

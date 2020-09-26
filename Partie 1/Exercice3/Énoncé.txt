@@ -1,0 +1,10 @@
+Écrire une fonction qui écrit le tmdonné en paramètre dans la console.
+Cette fonction se trouvera en dessous du name et s'appellera: "PrintMyText"
+
+Notes:
+    -Vôtre code se trouvera dans un fichier au nom de: "main.go" dans le même dossier que l'énoncé
+    -Aucun import n'est autorisé
+
+
+Cours:
+    https://tour.golang.org/basics/4

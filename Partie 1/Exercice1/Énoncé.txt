@@ -1,0 +1,9 @@
+Écrivez une fonction qui écris vôtre pseudo dans la console
+
+Note: 
+    -Vôtre code se trouvera dans un fichier au nom de: "main.go" dans le même dossier que l'énoncé
+    -Vous devez stocker vôtre pseudo dans une variable.
+    -Aucun import n'est autorisé
+
+Cours:
+    -https://tour.golang.org/basics/8

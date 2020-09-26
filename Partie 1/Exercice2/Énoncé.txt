@@ -1,0 +1,19 @@
+Écrire un code qui vas lister les informations suivantes dans des variables:
+    -Nom
+    -Prénom
+    -Âge
+    -Taille (cm)
+    -Majeur (oui ou non)
+En utilisant les types de variables suivants:
+    -int
+    -float64
+    -string
+    -bool
+
+Note: 
+    -Vôtre code se trouvera dans un fichier au nom de: "main.go" dans le même dossier que l'énoncé
+    -Vous devrez présenter les informations de manière correctes (avec des phrases)
+    -Aucun import n'est autorisé
+
+Cours:
+    https://tour.golang.org/basics/11

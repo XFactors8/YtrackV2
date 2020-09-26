@@ -1,0 +1,17 @@
+Écrire une fonction qui vérifie si la valeur passée en paramètre se trouve entre 0 et 100 (non compris)
+et retourner true ou false en paramètre selon le résultat.
+
+Vôtre code se trouvera dans la fonction "IsInside" en dessous du main
+Vous utiliserez "println" pour afficher le résultat
+
+Notes:
+    -Vôtre code se trouvera dans un fichier au nom de: "main.go" dans le même dossier que l'énoncé
+    -Aucun nombre en "brut" n'est autorisé (pas de nombres hors de variables)
+    -N'utiliser qu'un seul "if"
+    -Aucun import n'est autorisé
+
+Cours:
+    -https://tour.golang.org/flowcontrol/5
+    -Images:
+        -Cours2.png
+        -Cours1.png

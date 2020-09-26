@@ -1,0 +1,12 @@
+Écrire une fonction qui renvoies la l'IMC calculée avec deux valeurs en paramètre. (poid et taille)
+Cette fonction se trouvera en dessous du main et s'appellera: "IMCCalculator"
+Vous l'appellerez ensuite deux fois dans la fonction main puis utiliserez "println" pour afficher le résultat
+
+Notes:
+    -Vôtre code se trouvera dans un fichier au nom de: "main.go" dans le même dossier que l'énoncé
+    -Aucun nombre en "brut" n'est autorisé (pas de nombres hors de variables)
+    -Aucun import n'est autorisé
+
+Cours:
+    -https://tour.golang.org/basics/4
+    -https://tour.golang.org/basics/5
